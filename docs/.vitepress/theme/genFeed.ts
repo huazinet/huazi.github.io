@@ -4,7 +4,7 @@ import { writeFileSync } from 'fs'
 import { Feed } from 'feed'
 import { createContentLoader, type SiteConfig } from 'vitepress'
 
-const baseUrl = `https://xb.pearson.live`
+const baseUrl = `https://xb.pearsons.live`
 
 export async function genFeed(config: SiteConfig) {
   const feed = new Feed({
@@ -36,7 +36,7 @@ export async function genFeed(config: SiteConfig) {
       id: `${baseUrl}${url}`,
       link: `${baseUrl}${url}`,
       description: excerpt,
-      content: `<img src="${frontmatter.cover}" alt="" /><p><h3><a href="${baseUrl}${url}">文章涉及下载地址访问原站：https://xb.pearson.live</a></h3></p>` + html + `<p><h3 style="color:#3451b2"><a href="${baseUrl}${url}">文章涉及下载地址访问原站：https://xb.pearson.live</a></h3></p>`,
+      content: `<img src="${frontmatter.cover}" alt="" /><p><h3><a href="${baseUrl}${url}">文章涉及下载地址访问原站：https://xb.pearsons.live</a></h3></p>` + html + `<p><h3 style="color:#3451b2"><a href="${baseUrl}${url}">文章涉及下载地址访问原站：https://xb.pearsons.live</a></h3></p>`,
       image: frontmatter.cover,
       date: frontmatter.date
     })

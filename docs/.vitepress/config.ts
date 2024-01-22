@@ -19,7 +19,7 @@ export default defineConfig<ThemeConfig>({
     description: '羊毛，技术分享',
     ignoreDeadLinks: true,
     themeConfig: {
-        beecodeurl: 'https://xb.pearson.live/', //这里是内页ArticleLink组件用到的跳转第三方网址，一般用不到，仅仅用于二次开发
+        beecodeurl: 'https://xb.pearsons.live/', //这里是内页ArticleLink组件用到的跳转第三方网址，一般用不到，仅仅用于二次开发
         sidebar: [{}], //这里如果删掉，左侧栏的内容全部不显示。页面布局会变成通栏
         nav: [
             //{ text: '公众号', link: 'https://mp.weixin.qq.com/s/iCf-QOnKk2WPjVqL6jJ8WA' },
@@ -118,7 +118,7 @@ export default defineConfig<ThemeConfig>({
         article: {
             cc:{
                 author: '华子', //此信息将显示在文章底部和博主卡片中
-                authorLink: 'https://xb.pearson.live',
+                authorLink: 'https://xb.pearsons.live',
                 license: '署名-相同方式共享 4.0 国际 (CC BY-SA 4.0)',
                 licenseLink: 'http://creativecommons.org/licenses/by-sa/4.0/'
             }
