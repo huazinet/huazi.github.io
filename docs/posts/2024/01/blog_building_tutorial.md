@@ -36,10 +36,6 @@ git配置本地ssh密钥
 
 然后进入https://github.com/settings/keys配置github
 
-
-###
-yarn add package.json
-
 ###
 git config --global user.name "Your Name"
 
@@ -47,7 +43,12 @@ git config --global user.email "your-email@example.com"
 
 用vscode直接拉库：https://github.com/shiheme/appbeebee.git
 
-在比比的目录下
+###
+yarn add package.json
+
+然后参考比比作者github修改你的blog
+
+修改后在本地比比的目录下
 
 git init
 
