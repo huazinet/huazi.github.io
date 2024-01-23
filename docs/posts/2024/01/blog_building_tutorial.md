@@ -26,6 +26,17 @@ description:  搭建教程
 
 安装完成后，为了配置一些基本的环境变量，如用户名和邮箱，可以使用`git config --global user.name "Your Name"`和`git config --global user.email "yourname@example.com"`。
 最后，通过运行`git --version`命令来验证Git的安装情况。
+
+###
+git配置本地ssh密钥
+
+命令行执行ssh-keygen -t rsa -C 1573488389@qq.com
+
+执行完命令会回显密钥的路径，直接cat查看，
+
+然后进入https://github.com/settings/keys配置github
+
+
 ###
 yarn add package.json
 
@@ -46,11 +57,10 @@ git commit -m "one"
 
 git remote rm origin #删除远程源，可以不执行此命令
 
-git remote add origin git@github.com:huazinet/huazi.github.io.git
+git remote add origin git@github.com:这里写仓库名字.git
 
 git push -f origin main
 
-cat /Users/huazi/.ssh/id_rsa.pub	#查看密钥
 
 ###
 用github账号登录vercel.com
