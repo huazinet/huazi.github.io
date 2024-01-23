@@ -30,7 +30,7 @@ description:  搭建教程
 ###
 git配置本地ssh密钥
 
-命令行执行ssh-keygen -t rsa -C 1573488389@qq.com
+命令行执行ssh-keygen -t rsa -C 这里写你github的邮箱
 
 执行完命令会回显密钥的路径，直接cat查看，
 
