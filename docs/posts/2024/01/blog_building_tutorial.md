@@ -10,10 +10,12 @@ tags:
  - 搭建教程
 description:  搭建教程
 ---
+
 ###
 安装node.js #直接官网下载
 
 安装npm install --global yarn
+
 ###
 安装git
 
@@ -26,6 +28,7 @@ description:  搭建教程
 最后，通过运行`git --version`命令来验证Git的安装情况。
 ###
 yarn add package.json
+
 ###
 git config --global user.name "Your Name"
 
@@ -48,8 +51,10 @@ git remote add origin git@github.com:huazinet/huazi.github.io.git
 git push -f origin main
 
 cat /Users/huazi/.ssh/id_rsa.pub	#查看密钥
+
 ###
 用github账号登录vercel.com
+
 ###
 【两分钟使用 Vercel 免费部署你的静态网站-哔哩哔哩】 https://b23.tv/eHTiYts
 
