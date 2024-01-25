@@ -119,8 +119,8 @@ export default defineConfig<ThemeConfig>({
             cc:{
                 author: '华子', //此信息将显示在文章底部和博主卡片中
                 authorLink: 'https://xb.pearsons.live',
-                license: '署名-相同方式共享 4.0 国际 (CC BY-SA 4.0)',
-                licenseLink: 'http://creativecommons.org/licenses/by-sa/4.0/'
+                license: '免责声明',
+                licenseLink: 'https://xb.pearsons.live/posts/2024/01/Disclaimers.html'
             }
         },
         website: {
