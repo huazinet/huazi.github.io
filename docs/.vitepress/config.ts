@@ -61,8 +61,8 @@ export default defineConfig<ThemeConfig>({
         ],
         banner: [ //主页轮播，不需要就注释掉
              {
-                 link: '/posts/2024/01/freebie-chinese-font.html',
-                 image: 'https://xxx.ilovefishc.com/forum/201706/13/200552d3lelezt68j5jtz6.png',
+                 link: '/posts/2024/01/Disclaimers.html',
+                 image: 'http://p0.itc.cn/images01/20200807/9e3d47929b5047ec970557068e6cc80a.jpeg',
                  title: ''
              }
          ],
