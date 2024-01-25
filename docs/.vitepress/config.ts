@@ -118,9 +118,9 @@ export default defineConfig<ThemeConfig>({
         article: {
             cc:{
                 author: '华子', //此信息将显示在文章底部和博主卡片中
-                authorLink: 'https://xb.pearsons.live',
+                authorLink: 'https://t.me/huazinet',
                 license: '免责声明',
-                licenseLink: 'https://xb.pearsons.live/posts/2024/01/Disclaimers.html'
+                licenseLink: '/posts/2024/01/Disclaimers.html'
             }
         },
         website: {
