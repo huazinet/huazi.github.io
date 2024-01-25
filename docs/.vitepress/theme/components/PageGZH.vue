@@ -8,9 +8,9 @@
     <div><img src="https://cdnjson.com/images/2024/01/25/QRcode_B1.png" alt="公众号二维码" /></div>
     <div>
       <p>
-        TG扫码添加华子Network</p>
+        扫码添加华子Network</p>
       <p style="margin-top: 5px;">
-        第一时间传递给你</p>
+        TG：@huazinet</p>
     </div>
   </div>
 </template>
