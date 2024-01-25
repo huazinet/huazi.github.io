@@ -61,7 +61,7 @@ export default defineConfig<ThemeConfig>({
         ],
         banner: [ //主页轮播，不需要就注释掉
              {
-                 link: '/posts/2024/01/Disclaimers.html',
+                 link: '/posts/2024/01/blog_building_tutorial.html',
                  image: 'https://p0.itc.cn/images01/20200807/9e3d47929b5047ec970557068e6cc80a.jpeg',
                  title: ''
              }
@@ -118,7 +118,7 @@ export default defineConfig<ThemeConfig>({
         article: {
             cc:{
                 author: '华子', //此信息将显示在文章底部和博主卡片中
-                authorLink: 'https://t.me/huazinet',
+                authorLink: 'https://baudu.com',
                 license: '免责声明',
                 licenseLink: 'https://baudu.com'
             }
