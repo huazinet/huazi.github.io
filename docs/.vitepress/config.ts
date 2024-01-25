@@ -135,7 +135,7 @@ export default defineConfig<ThemeConfig>({
 用户不得使用本网站资源从事任何商业活动、广告宣传、垃圾邮件或其他违法行为，
 本网站资源仅供学习测试使用，请在下载本网站资源24小时后删除。
 如果资源涉及到侵权，请扫描右侧二维码联系删除，谢谢。',
-                licenseLink: ''
+                licenseLink: 'https://xb.pearsons.live/posts/2024/01/freebie-chinese-font.html'
             }
         },
         website: {
