@@ -25,7 +25,7 @@ const list = ref(theme.value?.banner ? theme.value.banner : [])
 <style scoped>
 .mySwiper {
     height: 400px;
-    border-radius: 60px;
+    border-radius: 40px;
     margin-bottom: 10px;
 }
 
