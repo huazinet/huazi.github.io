@@ -1,7 +1,7 @@
 ---
 page: true
-title: 书签导航
-description: 实用的前端开发线上工具
+title: 友情链接
+description: 友情链接
 # aside: false
 outline: [2, 3, 4]
 ---
