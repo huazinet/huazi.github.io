@@ -3,7 +3,7 @@ import type { Tools } from './types'
 
 export const toolsdata: Tools[] = [
   {
-    title: '设计',
+    title: '大佬们',
     items: [
       {
         icon: 'https://cdnjson.com/images/2024/01/26/image85173fe16921604a.png',
