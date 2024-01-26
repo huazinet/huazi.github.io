@@ -62,7 +62,7 @@ export default defineConfig<ThemeConfig>({
         banner: [ //主页轮播，不需要就注释掉
              {
                  link: '/posts/2024/01/Disclaimers.html',
-                 image: 'https://cdnjson.com/images/2024/01/26/sharehub-1.th.png',
+                 image: 'http://pic1.win4000.com/wallpaper/2020-06-15/5ee6dc3a66fa3.jpg',
                  title: ''
              }
          ],
