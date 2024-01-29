@@ -3,15 +3,18 @@ import { defineConfig } from 'vitepress'
 import { genFeed } from './theme/genFeed'
 import { head } from './theme/head';
 import type { ThemeConfig } from './theme/types';
-import mdItCustomAttrs  from 'markdown-it-custom-attrs'
+import mdItCustomAttrs from 'markdown-it-custom-attrs'
+import { chineseSearchOptimize, pagefindPlugin } from 'vitepress-plugin-pagefind'
+
 export default defineConfig<ThemeConfig>({
-    markdown:{
+    lang: 'zh-cn',
+    markdown: {
         config: (md) => {
             // use more markdown-it plugins!
             md.use(mdItCustomAttrs, 'image', {
                 'data-fancybox': "gallery"
             })
-            }
+        }
     },
     title: '华子Net',
     base: '/',
@@ -66,30 +69,6 @@ export default defineConfig<ThemeConfig>({
                  title: ''
              }
          ],
-        search: {
-            provider: 'local',
-            options: {
-                locales: {
-                    root: {
-                        translations: {
-                            button: {
-                                buttonText: '搜索文档',
-                                buttonAriaLabel: '搜索文档'
-                            },
-                            modal: {
-                                noResultsText: '无法找到相关结果',
-                                resetButtonTitle: '清除查询条件',
-                                footer: {
-                                    selectText: '选择',
-                                    navigateText: '切换',
-                                    closeText: '关闭'
-                                }
-                            }
-                        }
-                    }
-                }
-            }
-        },
         outlineTitle: '目录',
         socialLinks: [
             {
@@ -146,7 +125,14 @@ export default defineConfig<ThemeConfig>({
         server: {
             port: 5000,
             host: '0.0.0.0'
-        }
+        },
+        plugins: [pagefindPlugin({   //使用 pagefind搜索插件 https://www.npmjs.com/package/vitepress-plugin-pagefind
+            customSearchQuery: chineseSearchOptimize,
+            btnPlaceholder: '搜索文档',
+            placeholder: '搜索文档',
+            emptyText: '没有内容',
+            heading: '共 {{searchResult}} 条结果'
+        })]
     },
     buildEnd: genFeed
 })
