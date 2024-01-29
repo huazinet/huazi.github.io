@@ -22,7 +22,7 @@
             </div>
             <div class="timedown">
                 <p class="title">2024</p>
-                <p class="desc">新年倒计时x</p>
+                <p class="desc">新年倒计时</p>
                 <div>
                     <Countdown :until="until" />
                 </div>
@@ -63,7 +63,7 @@ const { theme } = useData();
 const modules = [Navigation]
 const list = ref(theme.value?.banner ? theme.value.banner : [])
 
-const lanternText = ref(['新', '年'])
+//const lanternText = ref(['新', '年'])
 const defaultDate = '2024/02/10 00:00'
 
 function getUntilDate() {
