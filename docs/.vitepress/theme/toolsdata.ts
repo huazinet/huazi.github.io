@@ -25,6 +25,13 @@ export const toolsdata: Tools[] = [
         desc: '爱趣享线报',
         link: 'https://xb.iqxrj.top',
         linktxt: 'xb.iqxrj.top',
+      },
+      {
+        icon: 'http://www.5zyw.com/wp-content/uploads/2023/11/2023112515094199.png',
+        title: '吾资源网',
+        desc: '吾资源网是一个专注于互联网免费资源分享，乐于分享，好资源不私藏！',
+        link: 'https://www.5zyw.com',
+        linktxt: 'www.5zyw.com',
       }
     ],
   },
