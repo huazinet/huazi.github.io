@@ -27,7 +27,7 @@ export const toolsdata: Tools[] = [
         linktxt: 'xb.iqxrj.top',
       },
       {
-        icon: 'http://www.5zyw.com/wp-content/uploads/2023/11/2023112515094199.png',
+        icon: 'https://img.picgo.net/2024/01/30/2023112515094199ebcde2ebcfffbbf0.th.png',
         title: '吾资源网',
         desc: '吾资源网是一个专注于互联网免费资源分享，乐于分享，好资源不私藏！',
         link: 'https://www.5zyw.com',
