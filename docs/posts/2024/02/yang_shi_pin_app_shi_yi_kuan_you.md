@@ -2,8 +2,8 @@
 post: true
 title: 央视频app是一款由央视打造的品质视频应用，融合了丰富的资讯内容，拥有轻简的用户界面的设计
 date: 2024-02-01
-cover: https://www.picgo.net/image/SXCDlK
-coveross: https://www.picgo.net/image/SXCDlK
+cover: https://img.picgo.net/2024/02/01/sharehubb0fb8f1d7444f4f7.png
+coveross: https://img.picgo.net/2024/02/01/sharehubb0fb8f1d7444f4f7.png
 categories:
  - 资源
 tags:
@@ -14,7 +14,7 @@ description:  资源
 
 ## https://pan.quark.cn/s/529732eaa37c  
 
-![](https://www.picgo.net/image/SXCDlK)
+![](https://img.picgo.net/2024/02/01/sharehubb0fb8f1d7444f4f7.png)
 
 ---
 互联网资源分享免责声明:  
