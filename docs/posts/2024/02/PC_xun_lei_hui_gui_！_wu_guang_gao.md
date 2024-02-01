@@ -2,8 +2,8 @@
 post: true
 title: PC迅雷回归！无广告去限速！登录就是VIP！
 date: 2024-02-01
-cover: https://www.picgo.net/image/SXCDlK
-coveross: https://www.picgo.net/image/SXCDlK
+cover: https://img.picgo.net/2024/02/01/sharehubb0fb8f1d7444f4f7.png
+coveross: https://img.picgo.net/2024/02/01/sharehubb0fb8f1d7444f4f7.png
 categories:
  - 资源
 tags:
@@ -14,7 +14,7 @@ description:  资源
 
 ## https://pan.quark.cn/s/c4ca84a7216b  
 
-![](https://www.picgo.net/image/SXCDlK)
+![](https://img.picgo.net/2024/02/01/sharehubb0fb8f1d7444f4f7.png)
 
 ---
 互联网资源分享免责声明:  
