@@ -2,8 +2,8 @@
 post: true
 title: 腾讯平台老电影无脑搬运，轻松撸收益，小白也能日入500+【揭秘】
 date: 2024-02-01
-cover: https://www.maomp.cc/wp-content/uploads/2024/01/1-761.jpg
-coveross: https://www.maomp.cc/wp-content/uploads/2024/01/1-761.jpg
+cover: https://img.picgo.net/2024/02/01/cdf9182ee0c5c82fbbcf9915b19a83bda4d7fa8a8b4d6ce8.md.png
+coveross: https://img.picgo.net/2024/02/01/cdf9182ee0c5c82fbbcf9915b19a83bda4d7fa8a8b4d6ce8.md.png
 categories:
  - 网赚
 tags:
@@ -15,7 +15,7 @@ description:  网赚
 
 ## 网盘链接：链接：https://pan.baidu.com/s/1gqrGOTjhdDNxqbQ0TuZanw?pwd=hdfn提取码：hdfn  
 
-![](https://www.maomp.cc/wp-content/uploads/2024/01/1-761.jpg)
+![](https://img.picgo.net/2024/02/01/cdf9182ee0c5c82fbbcf9915b19a83bda4d7fa8a8b4d6ce8.md.png)
 
 ---
 互联网资源分享免责声明:  
