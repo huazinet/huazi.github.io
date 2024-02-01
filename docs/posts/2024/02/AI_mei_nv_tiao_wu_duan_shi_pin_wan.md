@@ -2,8 +2,8 @@
 post: true
 title: AI美女跳舞短视频玩法详解，26个作品涨21万粉丝，保姆级教程【揭秘】
 date: 2024-02-01
-cover: https://img.picgo.net/2024/02/01/AI12de1f5bcde96af4.png
-coveross: https://img.picgo.net/2024/02/01/AI12de1f5bcde96af4.png
+cover: https://img.picgo.net/2024/02/01/AI12de1f5bcde96af4.md.png
+coveross: https://img.picgo.net/2024/02/01/AI12de1f5bcde96af4.md.png
 categories:
  - 网赚
 tags:
@@ -15,7 +15,7 @@ description:  网赚
 
 ## 网盘链接：链接：https://pan.baidu.com/s/1ZO8_SmHvUZKS75h-iFNs3A?pwd=ve2l提取码：ve2l  
 
-![](https://img.picgo.net/2024/02/01/AI12de1f5bcde96af4.png)
+![](https://img.picgo.net/2024/02/01/AI12de1f5bcde96af4.md.png)
 
 ---
 互联网资源分享免责声明:  
