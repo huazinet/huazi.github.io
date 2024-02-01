@@ -2,8 +2,8 @@
 post: true
 title: 魔音变声器1.6，已解锁VIP功能！
 date: 2024-02-01
-cover: https://www.picgo.net/image/SXCDlK
-coveross: https://www.picgo.net/image/SXCDlK
+cover: https://img.picgo.net/2024/02/01/sharehubb0fb8f1d7444f4f7.png
+coveross: https://img.picgo.net/2024/02/01/sharehubb0fb8f1d7444f4f7.png
 categories:
  - 资源
 tags:
@@ -14,7 +14,7 @@ description:  资源
 
 ## https://pan.quark.cn/s/82ee264a8b0e  
 
-![](https://www.picgo.net/image/SXCDlK)
+![](https://img.picgo.net/2024/02/01/sharehubb0fb8f1d7444f4f7.png)
 
 ---
 互联网资源分享免责声明:  
