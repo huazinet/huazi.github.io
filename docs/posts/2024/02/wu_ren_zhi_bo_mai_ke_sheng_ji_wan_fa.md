@@ -2,8 +2,8 @@
 post: true
 title: 无人直播卖课升级玩法，打造日不落直播间，24小时不下播，稳定日入1000+【揭秘】
 date: 2024-02-01
-cover: https://www.maomp.cc/wp-content/uploads/2024/01/1-762.jpg
-coveross: https://www.maomp.cc/wp-content/uploads/2024/01/1-762.jpg
+cover: https://img.picgo.net/2024/02/01/df423e00f109c5b7bd9c22ead6ea58126b390298bcb78cb8.md.png
+coveross: https://img.picgo.net/2024/02/01/df423e00f109c5b7bd9c22ead6ea58126b390298bcb78cb8.md.png
 categories:
  - 网赚
 tags:
@@ -15,7 +15,7 @@ description:  网赚
 
 ## 网盘链接：链接：https://pan.baidu.com/s/1Oxxs_PId5tC7fFwroNs2qw?pwd=ituq提取码：ituq  
 
-![](https://www.maomp.cc/wp-content/uploads/2024/01/1-762.jpg)
+![](https://img.picgo.net/2024/02/01/df423e00f109c5b7bd9c22ead6ea58126b390298bcb78cb8.md.png)
 
 ---
 互联网资源分享免责声明:  
