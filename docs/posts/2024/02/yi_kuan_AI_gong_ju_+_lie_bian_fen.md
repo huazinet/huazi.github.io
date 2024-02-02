@@ -2,8 +2,8 @@
 post: true
 title: 一款AI工具+裂变分佣=2024必上手项目！日入过千就靠它了【揭秘】
 date: 2024-02-01
-cover: https://www.maomp.cc/wp-content/uploads/2024/01/1-763.jpg
-coveross: https://www.maomp.cc/wp-content/uploads/2024/01/1-763.jpg
+cover: https://img.picgo.net/2024/02/02/AIca718db4fb146f2b.png
+coveross: https://img.picgo.net/2024/02/02/AIca718db4fb146f2b.png
 categories:
  - 网赚
 tags:
@@ -15,7 +15,7 @@ description:  网赚
 
 ## 网盘链接：链接：https://pan.baidu.com/s/1uvn72dZGhO6i4HWObvJeow?pwd=hmac提取码：hmac  
 
-![](https://www.maomp.cc/wp-content/uploads/2024/01/1-763.jpg)
+![](https://img.picgo.net/2024/02/02/AIca718db4fb146f2b.png)
 
 ---
 互联网资源分享免责声明:  
