@@ -2,8 +2,8 @@
 post: true
 title: AI图文音乐短视频课（2024）,帮助你快速了解短视频行业规则，掌握热门算法机制
 date: 2024-02-01
-cover: https://www.maomp.cc/wp-content/uploads/2024/01/1-766.jpg
-coveross: https://www.maomp.cc/wp-content/uploads/2024/01/1-766.jpg
+cover: https://img.picgo.net/2024/02/02/AI1fe0c391464619b6.png
+coveross: https://img.picgo.net/2024/02/02/AI1fe0c391464619b6.png
 categories:
  - 网赚
 tags:
@@ -15,7 +15,7 @@ description:  网赚
 
 ## 网盘链接：链接：https://pan.baidu.com/s/17ALqhsX5Rh2DCial9nqJXw?pwd=ovaf提取码：ovaf  
 
-![](https://www.maomp.cc/wp-content/uploads/2024/01/1-766.jpg)
+![](https://img.picgo.net/2024/02/02/AI1fe0c391464619b6.png)
 
 ---
 互联网资源分享免责声明:  
