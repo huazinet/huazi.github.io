@@ -2,8 +2,8 @@
 post: true
 title: AI美女跳舞短视频玩法详解，26个作品涨21万粉丝，保姆级教程【揭秘】
 date: 2024-02-01
-cover: https://www.maomp.cc/wp-content/uploads/2024/01/1-765.jpg
-coveross: https://www.maomp.cc/wp-content/uploads/2024/01/1-765.jpg
+cover: https://img.picgo.net/2024/02/02/AI49d0c92d8e131452.png
+coveross: https://img.picgo.net/2024/02/02/AI49d0c92d8e131452.png
 categories:
  - 网赚
 tags:
@@ -15,7 +15,7 @@ description:  网赚
 
 ## 网盘链接：链接：https://pan.baidu.com/s/1ZO8_SmHvUZKS75h-iFNs3A?pwd=ve2l提取码：ve2l  
 
-![](https://www.maomp.cc/wp-content/uploads/2024/01/1-765.jpg)
+![](https://img.picgo.net/2024/02/02/AI49d0c92d8e131452.png)
 
 ---
 互联网资源分享免责声明:  
