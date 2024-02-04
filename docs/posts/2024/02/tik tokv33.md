@@ -12,7 +12,7 @@ description:  资源
 ---
 # tik tokv33.3.5，解锁地区限制，免拔卡中文版
 
-## 转存失败  
+## https://pan.quark.cn/s/57b26f26ecc9  
 
 ![](https://img.picgo.net/2024/02/01/sharehubb0fb8f1d7444f4f7.png)
 
