@@ -1,14 +1,16 @@
 ---
 post: true
 title: 豆瓣电影TOP250合集 1080P蓝光 国英音轨 特效字幕 【经典收藏】
-date: 2024-02-03
+date: 2024-02-04
 cover: https://img.picgo.net/2024/02/01/sharehubb0fb8f1d7444f4f7.png
 coveross: https://img.picgo.net/2024/02/01/sharehubb0fb8f1d7444f4f7.png
 categories:
  - 资源
+ - 电影
 tags:
  - 资源
-description:  资源
+ - 电影
+description:  资源、豆瓣电影TOP250合集 1080P蓝光 国英音轨 特效字幕 【经典收藏】
 ---
 # 豆瓣电影TOP250合集 1080P蓝光 国英音轨 特效字幕 【经典收藏】
 
