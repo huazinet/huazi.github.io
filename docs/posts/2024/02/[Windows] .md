@@ -1,6 +1,6 @@
 ---
 post: true
-title: [Windows] 极简纯净B站视频下载器biliDown v1.1.1，支持8K+Hi-Res音效，附带混流小工具
+title: windows极简纯净B站视频下载器biliDown v1.1.1，支持8K+Hi-Res音效，附带混流小工具
 date: 2024-02-29
 cover: https://img.picgo.net/2024/02/01/sharehubb0fb8f1d7444f4f7.png
 coveross: https://img.picgo.net/2024/02/01/sharehubb0fb8f1d7444f4f7.png
@@ -10,7 +10,7 @@ tags:
  - 资源
 description:  资源
 ---
-# [Windows] 极简纯净B站视频下载器biliDown v1.1.1，支持8K+Hi-Res音效，附带混流小工具
+# windows极简纯净B站视频下载器biliDown v1.1.1，支持8K+Hi-Res音效，附带混流小工具
 
 ## https://pan.quark.cn/s/4b46c6e64fb7  
 
