@@ -1,6 +1,6 @@
 ---
 post: true
-title: [网站源码] PHP单页下单商城源码 茅台酒下单页
+title: 网站源码 PHP单页下单商城源码 茅台酒下单页
 date: 2024-03-01
 cover: https://img.picgo.net/2024/02/01/sharehubb0fb8f1d7444f4f7.png
 coveross: https://img.picgo.net/2024/02/01/sharehubb0fb8f1d7444f4f7.png
@@ -10,7 +10,7 @@ tags:
  - 资源
 description:  资源
 ---
-# [网站源码] PHP单页下单商城源码 茅台酒下单页
+# 网站源码 PHP单页下单商城源码 茅台酒下单页
 
 ## https://pan.quark.cn/s/ca7d2bbfd4af  
 
