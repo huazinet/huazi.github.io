@@ -1,6 +1,6 @@
 ---
 post: true
-title: [手机软件] Line游戏加速器，速度嘎嘎快！
+title: 手机软件 Line游戏加速器，速度嘎嘎快！
 date: 2024-03-04
 cover: https://img.picgo.net/2024/02/01/sharehubb0fb8f1d7444f4f7.png
 coveross: https://img.picgo.net/2024/02/01/sharehubb0fb8f1d7444f4f7.png
