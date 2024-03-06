@@ -1,6 +1,6 @@
 ---
 post: true
-title: [手机软件] 潘多拉游戏软件已解锁VIP功能无限观看！
+title: 手机软件 潘多拉游戏软件已解锁VIP功能无限观看！
 date: 2024-03-04
 cover: https://img.picgo.net/2024/02/01/sharehubb0fb8f1d7444f4f7.png
 coveross: https://img.picgo.net/2024/02/01/sharehubb0fb8f1d7444f4f7.png
