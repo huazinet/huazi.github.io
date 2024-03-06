@@ -1,6 +1,6 @@
 ---
 post: true
-title: [手机软件] 漫画大全，绿色无广看漫画！
+title: 手机软件 漫画大全，绿色无广看漫画！
 date: 2024-03-04
 cover: https://img.picgo.net/2024/02/01/sharehubb0fb8f1d7444f4f7.png
 coveross: https://img.picgo.net/2024/02/01/sharehubb0fb8f1d7444f4f7.png
