@@ -1,6 +1,6 @@
 ---
 post: true
-title: [网站源码] 轻量级开源桌面动态壁纸软件 巨应壁纸 v2.6.1.0
+title: 网站源码 轻量级开源桌面动态壁纸软件 巨应壁纸 v2.6.1.0
 date: 2024-03-04
 cover: https://img.picgo.net/2024/02/01/sharehubb0fb8f1d7444f4f7.png
 coveross: https://img.picgo.net/2024/02/01/sharehubb0fb8f1d7444f4f7.png
