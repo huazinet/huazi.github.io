@@ -1,6 +1,6 @@
 ---
 post: true
-title: [手机+PC软件]汽水音乐v9.1.0，免费听抖音热门歌曲！
+title: 手机+PC软件汽水音乐v9.1.0，免费听抖音热门歌曲！
 date: 2024-03-04
 cover: https://img.picgo.net/2024/02/01/sharehubb0fb8f1d7444f4f7.png
 coveross: https://img.picgo.net/2024/02/01/sharehubb0fb8f1d7444f4f7.png
