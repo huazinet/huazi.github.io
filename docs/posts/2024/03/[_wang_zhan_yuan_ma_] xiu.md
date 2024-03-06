@@ -1,6 +1,6 @@
 ---
 post: true
-title: [网站源码] xiuluo（修罗）知乎模板二开优化魔板仿网盘资源社–模板加全套插件
+title: 网站源码 xiuluo（修罗）知乎模板二开优化魔板仿网盘资源社–模板加全套插件
 date: 2024-03-05
 cover: https://img.picgo.net/2024/02/01/sharehubb0fb8f1d7444f4f7.png
 coveross: https://img.picgo.net/2024/02/01/sharehubb0fb8f1d7444f4f7.png
