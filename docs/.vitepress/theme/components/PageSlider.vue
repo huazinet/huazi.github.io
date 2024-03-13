@@ -26,7 +26,7 @@
                 <div>
                     <Countdown :until="until" />
                 </div>
-                <a href="https://sharehub.club/posts/2024/03/Bot_detial.html" target="_blank" class="tolink" style="text-decoration: none; color: inherit;">
+                <a href="https://sharehub.club/posts/2024/03/Bot_detial.html" target="_blank" class="tolink">
                     <span class="span">点击了解</span>
                     <svg class="svf" width="15" height="15" viewBox="0 0 15 15" fill="none" xmlns="http://www.w3.org/2000/svg">
                         <path
@@ -35,7 +35,7 @@
                         </path>
                     </svg>
                 </a>
-            </div>
+                </div>
             <div class="redcover">
 
             </div>
