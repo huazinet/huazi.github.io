@@ -14,8 +14,8 @@
       <li class="li"><label class="label">标题</label><span class="span">{{ frontmatter?.title }}</span></li>
       <li class="li"><label class="label">时间</label><span class="span">{{ formatTime(frontmatter?.date) }}</span></li>
       <li class="li link" @click="handleCopy(articleLink)"><label class="label">链接</label><span v-tooltip="'点击复制'" class="span">{{ articleLink }}</span></li>
-      <li class="li"><label class="label">免责</label><span class="span"><a class="a" target="_blank" :href="theme?.article?.cc?.authorLink">{{
-        frontmatter?.author ? frontmatter?.author : theme?.article?.cc?.author }}</a></span></li>
+      <li class="li"><label class="label">免责</label><span class="span"><a class="a" target="_blank" :href="theme?.article?.cc?.licenseLink">{{
+        frontmatter?.license ? frontmatter?.license : theme?.article?.cc?.license }}</a></span></li>
     </ul>
   </div>
 </template>
