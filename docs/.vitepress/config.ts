@@ -129,7 +129,7 @@ export default defineConfig<ThemeConfig>({
                 author: '华子', //此信息将显示在文章底部和博主卡片中
                 authorLink: 'https://t.me/huazinet',
                 license: '免责声明',
-                licenseLink: 'Disclaimers.html'
+                licenseLink: 'docs/posts/2024/01/Disclaimers.html'
             }
         },
         website: {
@@ -148,7 +148,7 @@ export default defineConfig<ThemeConfig>({
             cardMusic: true, //是否显示播放音乐，音乐列表在上面 music中配置
             cardCoffee: false, //是否显示打赏咖啡，
             coffeeQrcode: 'https://fc.sinaimg.cn/large/6364aa43gy1hm0f859sm6j208c08cabm.jpg', //打赏咖啡二维码图片地址。如果是跳转网页地址需自行修改代码
-            showLantern: true, //是否显示灯笼挂件
+            showLantern: false, //是否显示灯笼挂件
             lanternText: ['新','年'], //灯笼上的字,数组形式
             showFirework: false, //是否显示侧栏烟花特效
             fireworkTitle: '🧨烟花许愿🧨｜②⓪②④新年', //烟花许愿标题
