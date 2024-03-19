@@ -32,7 +32,7 @@ export const toolsdata: Tools[] = [
         desc: '吾资源网是一个专注于互联网免费资源分享，乐于分享，好资源不私藏！',
         link: 'https://www.5zyw.com',
         linktxt: 'www.5zyw.com',
-      }
+      },
       {
         icon: 'https://resfish.com/wp-content/uploads/2024/03/logo.jpg',
         title: '资源鱼项目网',
