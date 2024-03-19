@@ -38,7 +38,7 @@ export const toolsdata: Tools[] = [
         title: '资源鱼项目网',
         desc: '资源鱼项目网同步中创网各大论坛VIP资源，创业教程、自媒体、抖音快手短视频等视频教程以及营销软件、源码、淘宝虚拟资源等，长期更新各大付费创业项目',
         link: 'https://resfish.com/',
-        linktxt: 'resfish.com/',
+        linktxt: 'resfish.com',
       }
     ],
   },
