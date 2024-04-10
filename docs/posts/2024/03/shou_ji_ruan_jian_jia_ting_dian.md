@@ -1,6 +1,6 @@
 ---
 post: true
-title: [手机软件] 家庭电视2.2.3，看电视不用愁，电视家平替！
+title: 手机软件 家庭电视2.2.3，看电视不用愁，电视家平替！
 date: 2024-03-26
 cover: https://img.picgo.net/2024/02/01/sharehubb0fb8f1d7444f4f7.png
 coveross: https://img.picgo.net/2024/02/01/sharehubb0fb8f1d7444f4f7.png
@@ -10,7 +10,7 @@ tags:
  - 资源
 description:  资源
 ---
-# [手机软件] 家庭电视2.2.3，看电视不用愁，电视家平替！
+# 手机软件 家庭电视2.2.3，看电视不用愁，电视家平替！
 
 ## https://pan.quark.cn/s/45b9ef93c74f  
 
