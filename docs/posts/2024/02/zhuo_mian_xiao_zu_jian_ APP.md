@@ -1,6 +1,6 @@
 ---
 post: true
-title: 【桌面小组件 APP】i万象小组件
+title: 桌面小组件 APP i万象小组件
 date: 2024-02-03
 cover: https://img.picgo.net/2024/02/01/sharehubb0fb8f1d7444f4f7.png
 coveross: https://img.picgo.net/2024/02/01/sharehubb0fb8f1d7444f4f7.png
@@ -10,7 +10,7 @@ tags:
  - 资源
 description:  资源
 ---
-# 【桌面小组件 APP】i万象小组件
+# 桌面小组件 APP i万象小组件
 
 ## https://pan.quark.cn/s/9d662dd3b8d9  
 
