@@ -1,6 +1,6 @@
 ---
 post: true
-title: 【自媒体必备素材】320000+条精选文案素材合集，自媒体剪辑文案大全，含多个分类
+title: 自媒体必备素材 320000+条精选文案素材合集，自媒体剪辑文案大全，含多个分类
 date: 2024-02-03
 cover: https://img.picgo.net/2024/02/01/sharehubb0fb8f1d7444f4f7.png
 coveross: https://img.picgo.net/2024/02/01/sharehubb0fb8f1d7444f4f7.png
@@ -10,7 +10,7 @@ tags:
  - 资源
 description:  资源
 ---
-# 【自媒体必备素材】320000+条精选文案素材合集，自媒体剪辑文案大全，含多个分类
+# 自媒体必备素材 320000+条精选文案素材合集，自媒体剪辑文案大全，含多个分类
 
 ## https://pan.quark.cn/s/927acce94c2f  
 
