@@ -11,7 +11,7 @@
                         class="title strong" :href="website?.link">{{ webTitle }}</a>
                         <p class="source"><a class="strong" href="https://sharehub.club/" target="_blank">欲买桂花同载酒，终不似，少年游</a></p> 
                     <a class="beian strong" target="_blank" v-if="website?.icpRecordCode"
-                        href="https://sharehub.club/posts/2024/04/bilibili_automation.html"></a><template v-if="website?.publicSecurityRecordCode"> | </template><a class="beian strong"
+                        href="https://sharehub.club/posts/2024/04/bilibili_automation.html"></a><template v-if="website?.icpRecordCode"> | </template><a class="beian strong"
                         target="_blank" v-if="website?.publicSecurityRecordCode"
                         href="https://sharehub.club/posts/2024/03/Bot_detial.html"></a>
                 </div>
