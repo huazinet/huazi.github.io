@@ -32,26 +32,27 @@ B站自动化采集和私信截流是一种基于自动化技术的解决方案�
 
 ### 所有功能：
 
-目标用户采集
+目标用户采集👇
+
 ![目标用户采集](https://img.picgo.net/2024/07/22/image9e262f7e1be53363.png)
 
-私信
+私信👇
 
 ![私信](https://img.picgo.net/2024/07/22/imagefe36f897558021d4.png)
 
-私信log
+私信log👇
 
 ![私信log](https://img.picgo.net/2024/07/22/imagee9688d18cc37e31d.png)
 
-采集的目标用户数据
+采集的目标用户数据👇
 
 ![采集的目标用户数据](https://img.picgo.net/2024/07/22/imagef597784bc46930f6.png)
 
-采集数据全部私信完成
+采集数据全部私信完成👇
 
 ![采集数据全部私信完成](https://img.picgo.net/2024/07/22/image6a115771972343b8.png)
 
-所有账号私信上限
+所有账号私信上限👇
 
 ![所有账号私信上限](https://img.picgo.net/2024/07/23/image777f54081f8a4481.png)
 
