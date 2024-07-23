@@ -46,6 +46,7 @@
     }" class="mySwiper" :loop="true" :spaceBetween="10" :navigation="true" :modules="modules"
         v-if="theme?.website?.homeBanner && list.length">
         <swiper-slide v-for="(item, index) in list" :key="index">
+            {{ console.log(item?.link) }}
             <a class="a" :href="item?.link"><img class="image" :src="item?.image" :alt="item?.title" /></a>
         </swiper-slide>
     </swiper>
