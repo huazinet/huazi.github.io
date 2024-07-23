@@ -26,7 +26,7 @@
                 <div>
                     <Countdown :until="until" />
                 </div>
-                <a href="https://sharehub.club/posts/2024/04/bilibili_automation.html" class="tolink">
+                <a :href="'https://sharehub.club/posts/2024/04/bilibili_automation.html'" class="tolink">
                     <span class="span">点我或右侧扫码了解</span>
                     <svg class="svf" width="15" height="15" viewBox="0 0 15 15" fill="none" xmlns="http://www.w3.org/2000/svg">
                         <path
@@ -38,13 +38,13 @@
             <div class="redcover"></div>
         </div>
     </div>
-    <!-- 这是一个非常简易的轮播 -->
     <swiper :style="{
         '--swiper-navigation-color': '#ffffff',
         '--swiper-pagination-color': 'var(--vp-c-brand)',
         height: theme?.website?.bannerHeight + 'px'
     }" class="mySwiper" :loop="true" :spaceBetween="10" :navigation="true" :modules="modules"
-        v-if="theme?.website?.homeBanner && list.length">
+        v-if="theme?.website?.homeBanner && list.length"
+        :noSwiping="true">
         <swiper-slide v-for="(item, index) in list" :key="index">
             {{ console.log(item?.link) }}
             <a class="a" :href="item?.link"><img class="image" :src="item?.image" :alt="item?.title" /></a>
@@ -52,20 +52,18 @@
     </swiper>
 </template>
 
-
 <script lang="ts" setup>
 import { ref } from 'vue'
 import { useData } from 'vitepress'
-import { Swiper, SwiperSlide } from 'swiper/vue';  //轮播插件。更多高级配置教程见https://swiperjs.com/
+import { Swiper, SwiperSlide } from 'swiper/vue';
 import { Navigation } from 'swiper/modules';
 import Countdown from "../../theme/components/Countdown.vue";
 import 'swiper/css';
 import 'swiper/css/navigation';
+
 const { theme } = useData();
 const modules = [Navigation]
 const list = ref(theme.value?.banner ? theme.value.banner : [])
-
-// const lanternText = ref(['新', '年'])
 const defaultDate = '2024/04/01 00:00'
 
 function getUntilDate() {
@@ -162,149 +160,3 @@ const until = getUntilDate()
     width: 45px;
     height: 90px;
     background: rgba(216, 0, 15, .1);
-    margin: -4px 8px 8px 26px;
-    border-radius: 50% 50%;
-    border: 2px solid #dc8f03;
-}
-
-.xian {
-    position: absolute;
-    top: -20px;
-    left: 60px;
-    width: 2px;
-    height: 20px;
-    background: #dc8f03;
-}
-
-.shui-a {
-    position: relative;
-    width: 5px;
-    height: 20px;
-    margin: -5px 0 0 59px;
-    animation: swing 4s infinite ease-in-out;
-    transform-origin: 50% -45px;
-    background: orange;
-    border-radius: 0 0 5px 5px;
-}
-
-.shui-b {
-    position: absolute;
-    top: 14px;
-    left: -2px;
-    width: 10px;
-    height: 10px;
-    background: #dc8f03;
-    border-radius: 50%;
-}
-
-.shui-c {
-    position: absolute;
-    top: 18px;
-    left: -2px;
-    width: 10px;
-    height: 35px;
-    background: orange;
-    border-radius: 0 0 0 5px;
-}
-
-.deng:before {
-    position: absolute;
-    top: -7px;
-    left: 29px;
-    height: 12px;
-    width: 60px;
-    content: " ";
-    display: block;
-    z-index: 999;
-    border-radius: 5px 5px 0 0;
-    border: solid 1px #dc8f03;
-    background: linear-gradient(to right, #dc8f03, orange, #dc8f03, orange, #dc8f03);
-}
-
-.deng:after {
-    position: absolute;
-    bottom: -7px;
-    left: 10px;
-    height: 12px;
-    width: 60px;
-    content: " ";
-    display: block;
-    margin-left: 20px;
-    border-radius: 0 0 5px 5px;
-    border: solid 1px #dc8f03;
-    background: linear-gradient(to right, #dc8f03, orange, #dc8f03, orange, #dc8f03);
-}
-
-.deng-t {
-    font-family: 黑体, Arial, Lucida Grande, Tahoma, sans-serif;
-    font-size: 3.2rem;
-    color: #dc8f03;
-    font-weight: 700;
-    line-height: 85px;
-    text-align: center;
-}
-
-.timedown {
-    width: 65%;
-    margin: 0px auto;
-    text-align: center;
-    position: relative;
-    z-index: 20;
-    display: flex;
-    flex-direction: column;
-    gap: 0.5rem;
-}
-
-.title {
-    font-weight: 700;
-    font-size: 2.08rem;
-    line-height: 1.1;
-    letter-spacing: -.05em;
-}
-
-.desc {
-    font-size: 1.2rem;
-    line-height: 1.75rem;
-    opacity: .8;
-}
-
-.tolink {
-    display: flex;
-    flex-direction: row;
-    justify-content: center;
-    align-items: center;
-    margin-top: 5px;
-}
-
-.svg {
-    width: 1rem;
-    height: 1rem;
-    margin-left: 0.25rem;
-}
-
-@-moz-keyframes swing {
-    0% {
-        -moz-transform: rotate(-10deg);
-    }
-    50% {
-        -moz-transform: rotate(10deg);
-    }
-    100% {
-        -moz-transform: rotate(-10deg);
-    }
-}
-
-@-webkit-keyframes swing {
-    0% {
-        -webkit-transform: rotate(-10deg);
-    }
-    50% {
-        -webkit-transform: rotate(10deg);
-    }
-    100% {
-        -webkit-transform: rotate(-10deg);
-    }
-}
-
-</style>
-
