@@ -2,16 +2,18 @@
 post: true
 title: B站自动化采集&私信截流
 date: 2024-07-23
-cover: https://img.picgo.net/2024/02/01/sharehubb0fb8f1d7444f4f7.png
-coveross: https://img.picgo.net/2024/02/01/sharehubb0fb8f1d7444f4f7.png
+cover: https://img.picgo.net/2024/07/23/imageac8f6e035d88e580.png
+coveross: https://img.picgo.net/2024/07/23/imageac8f6e035d88e580.png
 categories:
- - Bot
+ - 截流
 tags:
  - 截流
  - 自动化
  - Bot
 description:  Bot、截流、自动化
 ---
+![image](https://img.picgo.net/2024/07/23/imageac8f6e035d88e580.png)
+
 # B站自动化采集&私信截流
 
 ### B站自动化采集&私信截流
@@ -30,16 +32,22 @@ B站自动化采集和私信截流是一种基于自动化技术的解决方案�
 
 ### 所有功能：
 
+目标用户采集
 ![目标用户采集](https://img.picgo.net/2024/07/22/image9e262f7e1be53363.png)
 
+私信
 ![私信](https://img.picgo.net/2024/07/22/imagefe36f897558021d4.png)
 
+私信log
 ![私信log](https://img.picgo.net/2024/07/22/imagee9688d18cc37e31d.png)
 
+采集的目标用户数据
 ![采集的目标用户数据](https://img.picgo.net/2024/07/22/imagef597784bc46930f6.png)
 
+采集数据全部私信完成
 ![采集数据全部私信完成](https://img.picgo.net/2024/07/22/image6a115771972343b8.png)
 
+所有账号私信上限
 ![所有账号私信上限](https://img.picgo.net/2024/07/23/image777f54081f8a4481.png)
 
 ### 效果截图（部分）
