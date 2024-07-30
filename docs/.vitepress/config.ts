@@ -25,8 +25,8 @@ export default defineConfig<ThemeConfig>({
         beecodeurl: 'https://sharehub.club', //这里是内页ArticleLink组件用到的跳转第三方网址，一般用不到，仅仅用于二次开发
         sidebar: [{}], //这里如果删掉，左侧栏的内容全部不显示。页面布局会变成通栏
         nav: [
-            { text: '公众号', link: 'https://mp.weixin.qq.com/s/iCf-QOnKk2WPjVqL6jJ8WA' },
-            { text: '比比原创小程序', link: 'https://beebee.work/' }
+            { text: '千万级用户关键词监控', link: 'https://t.me/huazinet1/16' },
+            { text: '流量卡', link: 'https://mall.51haoka.shop/index?k=RW1YQzRaOTVDbG89' }
         ],
         music: [ //音乐列表，音乐播放器参数在.vitepress/store/player.ts。封面和歌词不支持可自行按照文章教程修改
             {
