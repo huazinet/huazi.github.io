@@ -129,7 +129,7 @@ export default defineConfig<ThemeConfig>({
                 author: '华子', //此信息将显示在文章底部和博主卡片中
                 authorLink: 'https://t.me/huazinet',
                 license: '免责声明',
-                licenseLink: 'https://sharehub.club/posts/2024/01/Disclaimers.html'
+                licenseLink: 'https://blog.sharehub.club/posts/2024/01/Disclaimers.html'
             }
         },
         website: {
