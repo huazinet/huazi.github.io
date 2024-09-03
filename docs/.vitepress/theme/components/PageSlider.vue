@@ -1,6 +1,6 @@
 <template>
     <div class="newyearcard">
-        <a href="https://sharehub.club/posts/2024/04/bilibili_automation.html" target="_blank" class="a"></a>
+        <a href="https://blog.sharehub.club/posts/2024/04/bilibili_automation.html" target="_blank" class="a"></a>
         <div class="contain">
             <div class="dengbox" style="pointer-events: none;z-index: 1000;">
                 <div :style="{
