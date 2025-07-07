@@ -16,7 +16,7 @@ description:  教程
 
 ![Coze](https://img.picgo.net/2025/07/07/image7bbb6bbfd322f67f.png)
 
-插件可以无脑直接使用，但是需要对Coze，阿里云、阿里云百炼等平台操作熟悉
+使用本插件需要对Coze，阿里云、阿里云百炼等平台以及Python基础操作了解即可
 
 短视频解析的Api需自备（用自己的需要代码适配）
 
