@@ -2,8 +2,8 @@
 post: true
 title: 利用阿里云百炼平台提取视频文案的扣子插件
 date: 2025-07-07
-cover: https://img.picgo.net/2025/07/07/image7bbb6bbfd322f67f.png
-coveross: https://img.picgo.net/2025/07/07/image7bbb6bbfd322f67f.png
+cover: https://wmimg.com/i/1759/2025/07/686b4c82d4df1.png
+coveross: https://wmimg.com/i/1759/2025/07/686b4c82d4df1.png
 categories:
  - 教程
 tags:
@@ -14,7 +14,7 @@ description:  教程
 ---
 # 利用阿里云百炼平台提取视频文案的扣子插件
 
-![Coze](https://img.picgo.net/2025/07/07/image7bbb6bbfd322f67f.png)
+![Coze](https://wmimg.com/i/1759/2025/07/686b4c82d4df1.png)
 
 使用本插件需要对Coze，阿里云、阿里云百炼等平台以及Python基础操作了解即可
 
