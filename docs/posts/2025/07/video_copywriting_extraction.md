@@ -12,7 +12,7 @@ description:  教程
 ---
 # 2025-07-07利用阿里云百炼平台提取视频文案的扣子插件
 
-[Coze](https://img.picgo.net/2025/07/07/image7bbb6bbfd322f67f.png)
+![Coze](https://img.picgo.net/2025/07/07/image7bbb6bbfd322f67f.png)
 
 # 插件可以无脑直接使用，但是需要对Coze，阿里云、阿里云百炼等平台操作熟悉
 # 短时间解析的Api需自备（用自己的需要代码适配），想要和我使用同一个平台可以联系我
