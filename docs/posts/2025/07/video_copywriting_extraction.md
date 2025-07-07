@@ -1,6 +1,6 @@
 ---
 post: true
-title: 2025-07-07利用阿里云百炼平台提取视频文案的扣子插件
+title: 利用阿里云百炼平台提取视频文案的扣子插件
 date: 2025-07-07
 cover: https://img.picgo.net/2025/07/07/image7bbb6bbfd322f67f.png
 coveross: https://img.picgo.net/2025/07/07/image7bbb6bbfd322f67f.png
@@ -12,7 +12,7 @@ tags:
  - 插件
 description:  教程
 ---
-# 2025-07-07利用阿里云百炼平台提取视频文案的扣子插件
+# 利用阿里云百炼平台提取视频文案的扣子插件
 
 ![Coze](https://img.picgo.net/2025/07/07/image7bbb6bbfd322f67f.png)
 
