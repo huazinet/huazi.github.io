@@ -2,8 +2,8 @@
 post: true
 title: B站自动化采集&私信截流
 date: 2024-07-23
-cover: https://img.picgo.net/2024/07/23/imageac8f6e035d88e580.png
-coveross: https://img.picgo.net/2024/07/23/imageac8f6e035d88e580.png
+cover: https://wmimg.com/i/1759/2025/07/686b4c4b35e2e.png
+coveross: https://wmimg.com/i/1759/2025/07/686b4c4b35e2e.png
 categories:
  - 截流
 tags:
@@ -12,7 +12,7 @@ tags:
  - Bot
 description:  Bot、截流、自动化
 ---
-![image](https://img.picgo.net/2024/07/23/imageac8f6e035d88e580.png)
+![image](https://wmimg.com/i/1759/2025/07/686b4c4b35e2e.png)
 
 # B站自动化采集&私信截流
 
