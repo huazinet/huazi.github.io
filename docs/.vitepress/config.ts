@@ -31,9 +31,9 @@ export default defineConfig<ThemeConfig>({
         music: [ //音乐列表，音乐播放器参数在.vitepress/store/player.ts。封面和歌词不支持可自行按照文章教程修改
             {
                 "id": 1,
-                "title": "陷落Falling",
-                "author": "不知名选手Au / 马也_Crabbit",
-                "url": "https://res.wx.qq.com/voice/getvoice?mediaid=MzUzMDUzMjQyMl8xMDAwMDE0Nzk=",
+                "title": "搞钱的小曲er",
+                "author": "搞钱的小曲儿",
+                "url": "http://cloud.video.taobao.com/play/u/null/p/1/e/6/t/1/525978256561.mp4",
                 "pic": "https://enshimama.oss-cn-shanghai.aliyuncs.com/smartgallery/music/01.jpg",
                 "lrc": ""
             },
@@ -53,14 +53,14 @@ export default defineConfig<ThemeConfig>({
             //     "pic": "https://enshimama.oss-cn-shanghai.aliyuncs.com/smartgallery/music/03.jpg",
             //     "lrc": ""
             // },
-            {
-                "id": 4,
-                "title": "迎春花 / 財神到 / 祝福你 (廣東)",
-                "author": "邓丽君 / 林子祥 / 甄妮",
-                "url": "https://res.wx.qq.com/voice/getvoice?mediaid=MzUzMDUzMjQyMl8xMDAwMDE4NTI=",
-                "pic": "",
-                "lrc": ""
-            }
+            //{
+            //    "id": 4,
+            //    "title": "迎春花 / 財神到 / 祝福你 (廣東)",
+            //    "author": "邓丽君 / 林子祥 / 甄妮",
+            //    "url": "https://res.wx.qq.com/voice/getvoice?mediaid=MzUzMDUzMjQyMl8xMDAwMDE4NTI=",
+            //    "pic": "",
+            //    "lrc": ""
+            //}
         ],
         banner: [ //主页轮播，不需要就注释掉
              {
@@ -146,7 +146,7 @@ export default defineConfig<ThemeConfig>({
             showUserCard: false, //是否显示列表中的博主名片
             cardPosition: 3, //显示在第几个位置
             cardMusic: true, //是否显示播放音乐，音乐列表在上面 music中配置
-            cardCoffee: false, //是否显示打赏咖啡，
+            cardCoffee: true, //是否显示打赏咖啡，
             coffeeQrcode: 'https://fc.sinaimg.cn/large/6364aa43gy1hm0f859sm6j208c08cabm.jpg', //打赏咖啡二维码图片地址。如果是跳转网页地址需自行修改代码
             showLantern: false, //是否显示灯笼挂件
             lanternText: ['新','年'], //灯笼上的字,数组形式
