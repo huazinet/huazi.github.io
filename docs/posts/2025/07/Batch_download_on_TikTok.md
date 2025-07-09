@@ -12,19 +12,22 @@ tags:
  - 视频采集
 description:  教程
 ---
+
+![Tiktok](https://wmimg.com/i/1759/2025/07/686de9308c7a5.png)
+
 ## 安装所需模块
 pip install yt-dlp
 还需要可执行的Python环境，具体可百度安装，非常简单
 
 ## 采集配置
 脚本同目录下需要放一个tiktok_video_list.txt的文件，里面一行一个需要采集的视频链接
-‘’‘txt
+```txt
 https://www.tiktok.com/@looord_nl85/video/7397792734821518625
 https://www.tiktok.com/@looord_nl85/video/7397792734821518625
-’‘’
+```
 
 ## 直接上代码
-‘’‘Python
+```Python
 # -*- coding: utf-8 -*-
 # @Time    : 2025/3/18 12:21
 # @Author  : huazi
@@ -115,7 +118,7 @@ def download_videos(save_dir: str = "get_video"):
 if __name__ == "__main__":
     # 下载视频
     download_videos() 
-‘’‘
+```
 
 
 ---
