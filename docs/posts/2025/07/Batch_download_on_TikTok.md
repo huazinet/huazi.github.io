@@ -15,8 +15,9 @@ description:  教程
 
 ![Tiktok](https://wmimg.com/i/1759/2025/07/686de9308c7a5.png)
 
-## 安装所需模块
+## 安装所需Python模块
 pip install yt-dlp
+
 还需要可执行的Python环境，具体可百度安装，非常简单
 
 ## 采集配置
@@ -120,6 +121,7 @@ if __name__ == "__main__":
     download_videos() 
 ```
 
+## 任何问题可右边扫码/[点击这里的文字联系我（跳转新网页最下方可见）](https://sharehub.club)
 
 ---
 互联网资源分享免责声明:  
